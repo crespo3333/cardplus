@@ -1,0 +1,140 @@
+{
+  	"title": "CARD PLUS ASSET LINK CREDIT CARD",
+	
+    "header.nav1": "首页",
+	"header.nav2": "为何选择Card Plus",
+	"header.nav3": "卡的类别",
+	"header.nav4": "常见问题",
+	"header.nav5": "信用卡优惠",
+	"header.nav6": "APP下载",
+	
+	"login": "立即申请",
+	
+	"banner.font1": "信托未来, 重新定义",
+	"banner.font2": "Card Plus Asset Link 信用卡打破传统信托业的框架，透过一站式合法信托交易平台，让你轻松、安全地管理多元资产，实现真正财富自主。",
+	"banner.font3": "CARD PLUS ASSET LINK CREDIT CARD",
+	
+	"module.ad1": "首张由信托支持的信用卡，让您灵活使用信托资产",
+	
+	"choose.font1": "为何选择Card Plus?",
+	"choose.font2": "不设信用额度* Card Plus Asset Link信用卡让您把握宝贵投资机会",
+	"choose.font3": "*信用额度等于所提供的信托资产市场价值",
+	"choose.font4": "高度保密",
+	"choose.font5": "严格保护您的财富使用纪录",
+	"choose.font6": "世界畅行",
+	"choose.font7": "安存您的财富 随时随地使用",
+	"choose.font8": "专属客服",
+	"choose.font9": "7*24小时待命 为您排忧解难",
+	
+	
+	"use.font1": "如何使用",
+	"use.font2": "一张卡即可灵活使用您的所有信托资产",
+	"use.font3": "于Card Plus信托平台上开立您的信托户口",
+	"use.font4": "您将收到一张信用额度基于您当前资产总值的专属Card Plus Asset Link信用卡",
+	"use.font5": "不设结算周期及最低还款额，使用Card Plus Asset Link信用卡，何时签账、何时还款，由您控制",
+	
+	"category.font1": "卡的类别",
+	"category.font2": "选择最适合您日常消费的 Card Plus Asset Link 信用卡",
+	"category.font3": "CRO 锁定",
+	"category.font4": "金属黑卡 $100,000 USD",
+	"category.font5": "VIP卡 $30,000 USD",
+	"category.font6": "CRO 奖励",
+	"category.font7": "5 %",
+	"category.font8": "2 %",
+	"category.font9": "每月 CRO 奖励上限",
+	"category.font10": "以美元或其他当地法定货币计算等值金额",
+	"category.font11": "$25 USD",
+	"category.font12": "$25 USD",
+	"category.font13": "卡友优惠与服务",
+	"category.font14": "Spotify",
+	"category.font15": "每家商户每月回馈最多 1 次：等值 13.99 美元 (订阅月费)",
+	"category.font16": "Netflix",
+	"category.font17": "每家商户每月回馈最多 1 次：等值 13.99 美元 (订阅月费)",
+	"category.font18": "机场贵宾室服务",
+	"category.font19": "赚取“红包奖赏”",
+	"category.font20": "独家商品迎新礼包",
+	"category.font21": "私人飞机合作伙伴",
+	"category.font22": "费用与额度上限",
+	"category.font23": "每月免费 ATM 出金",
+	"category.font24": "$1,000 USD",
+	"category.font25": "$800 USD",
+	"category.font26": "每月免费货币兑换交易",
+	"category.font27": "ATM 提领每月额度上限",
+	"category.font28": "$10,000 USD",
+	"category.font29": "$10,000 USD",
+	"category.font30": "每月储值合计上限",
+	"category.font31": "$25,000 USD",
+	"category.font32": "$25,000 USD",
+	"category.font33": "银行间汇率每月限额",
+	
+	
+	"module.ad2": "强大资产保护<br />资产离岸功能",
+	"module.ad3": "随时提取现金<br />灵活运用信托资产",
+	
+	"faq.font1": "常见问题",
+	"faq.font2": "所有您需要知道的信用卡资讯",
+	
+	"faq.font3": "什么是CARD PLUS？",
+	"faq.font4": "CARD PLUS是一张可以直接使用多种信托资产的万事达信用卡。将您的信用卡与信托资产绑定，为您的全球购物、娱乐、休闲等提供完美流畅的付款体验。 CARD PLUS十分重视使用者隐私安全与财产安全，开创了易用、 便利、灵活、安全的金融支付新场景。",
+	
+	"faq.font5": "CARD PLUS有什么优势？",
+	"faq.font6": "a. 不设限额－您可以轻松使用您的专属CARD PLUS信用卡 <br />b. 申请容易－简单KYC流程， 只需要提供您的身分证件即可为您开卡<br />c. 交易快速－交易时间短，储值兑换容易，让你节省宝贵时间<br />d 资产保护－让您的资产在CARD PLUS信托平台上得到严格保护",
+	
+	"faq.font7": "如何申请CARD PLUS ASSET LINK信用卡？",
+	"faq.font8": "a.下载CARD PLUS App并建立账户<br />b.申请CARD PLUS ASSET LINK信用卡<br />c.提交KYC资讯并等待审核<br />d.收到CARD PLUS ASSET LINK信用卡",
+	
+	"faq.font9": "实体卡和虚拟卡有什么区别？",
+	"faq.font10": "虚拟卡和实体卡均支持连接第三方 APP后在线支付，而实体卡可在大多数ATM和POS终端上使用。虚拟卡和实体卡均可在48小时内激活并使用。 不过，实体卡的制作和交付一般需要1个星期时间。",
+	
+	"faq.font11": "如何追踪我的卡片申请流程？",
+	"faq.font12": "当您的卡状态由“正在申请”变为“正在制作”时，表示该卡已开始制作。正常情况下（不受疫情、海关等不可抗拒因素的干扰）扣款），实体卡只需要1个星期时间。如果超过1个星期还没有收到，可以提供邮箱地址给客服协助查询，如果已经发送了，可以在app中查看快递单号和物流公司名称。",
+	
+	"faq.font13": "收到卡后如何激活？",
+	"faq.font14": "激活要求：<br />拍照激活CARD PLUS时，您需要一手拿着卡，一手拿着护照，充分露出脸部。请确保护照信息和塑料卡上的信息一致且照片上的卡号清晰可见且完好。<br /><br />激活结果：<br />在CARD PLUS信托平台上提交照片后， 银行将在48小时内进行审核。审核通过后，卡的状态将显示为'充值'。要求 重新提交照片。",
+	
+	"faq.font15": "如何注入资产？什么时候到账？",
+	"faq.font16": "在CARD PLUS中，开启CARD PLUS页面，选择申请的卡片即可进行资产注入，一般会在24小时内完成。如遇节假日进行资产注入，到账时间可能会延迟至工作日，请耐心等待。",
+	
+	"faq.font17": "怎么理解我可以用CARD PLUS ASSET LINK信用卡灵活调用我的信托资产？",
+	"faq.font18": "你可以在任何接受万事达卡的商家用CardPlus Asset Link信用卡进行支付，或是在接受万事达卡的ATM上提取现金。而您的信用卡额度是基于您的信托资产市场价值设定，因此您的每一 笔交易都由信托资产支持，但您可以选择不立即用信托资产偿付。您可以选择用其他资产还款，或用信托资产延迟偿还支付。我们的卡片服务目前已经覆盖了全球200个国家。",
+
+	"faq.font19": "如何进行还款操作？",
+	"faq.font20": "首先CardPlus Asset Link信用卡是基于您的信托资产价值设定信用额度。其次，您可以选择在CardPlus信托平台上设定帐户自动还款、选择用于还款的资产偏好，信托平台就会自动还清您的未结款金额。您亦可不使用自动还款功能，未结帐款项产生的利息将按天算，不过我们会每天通知您未结款项和利息金额，确保您可以即时掌控还款主动权。",
+	
+	"faq.font21": "未结款项是如何产生利息的？",
+	"faq.font22": "通常不会产生利息，只要您在CardPlus信托平台上设定了自动还款，且您的信托帐户中有足够的信托资产。不过，在ATM提取现金会立即产生利息。另一种情况是，在商家就您的购买交易让我们完成扣款的当天，我们会透过CardPlus信托平台或电子邮件向您发送通知有关信用卡的结馀，然后才会从次日开始按日计算利息。",
+	
+	"faq.font23": "我可以选择“自动还款”或“手动还款”？",
+	"faq.font24": "是的，您可以随时在CardPlus信托平台上设定是否自动还款，如果您关闭此选项，则认为您决定在任何您方便的时候进行自主还款。",
+	
+	"faq.font25": "我如何查阅我的帐单？",
+	"faq.font26": "CARD PLUS信托平台功能齐全完善，您可以在平台上进行各种操作，包括查阅您的全部帐单。",
+	
+	"faq.font27": "为什么首次交易不能使用无接触式付款？",
+	"faq.font28": "我们十分重视客户的财富安全，所以对卡片进行了许多安全功能设定。首次交易不支援无接触式付款可以避免您的Card Plus Asset Link信用卡在运输过程中意外触碰到感应设备而产生交易损失。一旦您收到卡片并激活，它就可以正常进行无接触式付款。",
+	
+	
+	
+	"app.font1": "在Card Plus应用程序中管理您的Asset Link信用卡",
+	"app.font2": "安全好用的多生态卡片",
+	"app.font3": "安全存储+支付交易，尽在CARD PLUS！",
+	"app.font4": "IOS 公测版手机端安装教程 ",
+	"app.font5": "第一步: 在 App Store上安装 TestFlight",
+	"app.font6": "手机扫描上方二维码安装APP或复制点击下方链接在手机中打开",
+	"app.font7": "https://apps.apple.com/app/testflight/id899247664",
+	"app.font8": "复制",
+	"app.font9": "成功安装TestFlight后，请回到此页面进行第二步操作 ",
+	"app.font10": "第二步: 安装CARD PLUS APP",
+	"app.font11": "手机扫描上方二维码安装APP或复制点击下方链接在手机中打开 ",
+	"app.font12": "https://testflight.apple.com/join/5GaAsEL6",
+	"app.font13": "安装完成,打开App即可使用",
+	"app.font14": "*后续有版本更新，可以直接点开TestFlight安装更新，无需重复以上操作 ",
+
+	
+	"footer.font1": "© 2023 All Rights Reserved. ",
+	"footer.font2": "Privacy policy",
+	"footer.font3": "Risk Disclosure Statement",
+	"footer.font4": "Disclaimer",
+	"footer.font5": "Cookies Policy",
+    "footer.font6": "Standard Terms"
+}
