@@ -1,10 +1,10 @@
 "use strict";
 
 $(document).ready(function() {
-  /*默认语言*/
+
   var defaultLang = "zh";
 
-  // 封装设置语言的函数
+
   function setLanguage(lang) {
 	  $("[i18n]").i18n({
 		  lang:lang,
@@ -20,7 +20,7 @@ $(document).ready(function() {
 	  });
   }
 
-  // 在页面加载时检查 Cookies 中是否有语言选择
+ 
   var langFromCookies = document.cookie.replace(/(?:(?:^|.*;\s*)i18n_lang\s*=\s*([^;]*).*$)|^.*$/, "$1");
   if (langFromCookies) {
 	  setLanguage(langFromCookies);
@@ -28,7 +28,7 @@ $(document).ready(function() {
 	  setLanguage(defaultLang);
   }
 
-  /*切换为中文 - 按钮*/
+
   $(".lang a").click(function() {
 	  if($(this).is("active")){return false;}
 	  var lang = $(this).data("lang").toLowerCase();
@@ -326,7 +326,7 @@ function isScrollView(t) {
         });
 
         //# NAVIGATION MENU
-        if (window_width > 992) {
+        if (window_width >1024) {
             $(nav).on("click", ".search-box-menu > i", function () {
                 $(this).parent().toggleClass("active");
             });

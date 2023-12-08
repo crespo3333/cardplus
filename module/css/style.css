@@ -197,7 +197,7 @@ COLOR 3
 }
 
 .light .dropdown > ul > li:not(:hover) > a {
-    color: #3081c8 !important;
+    color: #fff !important;
 }
 
 .btn:not(.btn-border):hover, .cnt-box-badge .badge, .cnt-box-blog-side .blog-date, .cnt-box-blog-top .blog-date, .dropdown ul:not(.icon-list) li:hover > a,
@@ -491,6 +491,11 @@ main > .section-map {
         max-width: 570px;
     }
 }
+
+@media (max-width: 1200px) {
+  .lang-nav {display: block !important;}
+}
+
 
 /*
 -------------------------------------------------------------------
@@ -4936,7 +4941,7 @@ Medium devices (tablets, less than 992px)
     }
 
     body > nav.menu-fixed .menu-cnt {
-        overflow-y: scroll;
+        overflow-y: none;
     }
 
     .menu-cnt > ul, .menu-cnt > .menu-right {
